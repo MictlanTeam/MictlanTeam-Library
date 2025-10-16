@@ -1,4 +1,4 @@
-(footprint "ARDUINO_NANO"
+(footprint "Arduino_Nano"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "ARDUINO_NANO"
+	(property "Value" "Arduino_Nano"
 		(at 2.815 25.285 0)
 		(layer "F.Fab")
 		(uuid "0ba4e5b9-9df8-475c-99b2-e672dd8af898")
@@ -513,7 +513,7 @@
 		(uuid "5dcab8a4-7d09-42d3-a37d-c576f3245316")
 	)
 	(embedded_fonts no)
-	(model "${MODELS}/ARDUINO_NANO.step"
+	(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ARDUINO_NANO.step"
 		(offset
 			(xyz 0 0 0)
 		)
