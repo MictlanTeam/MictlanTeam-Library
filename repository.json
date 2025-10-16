@@ -1,0 +1,16 @@
+{
+  "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/resources/repository.schema.json",
+  "name": "MictlanTeam Library",
+  "description": "Librería personalizada de componentes electrónicos para KiCad desarrollada por MictlanTeam",
+  "maintainer": {
+    "name": "MictlanTeam",
+    "contact": {
+      "email": "contact@mictlanteam.com"
+    }
+  },
+  "packages": [],
+  "resources": {
+    "homepage": "https://github.com/MictlanTeam/MictlanTeam-Library",
+    "issues": "https://github.com/MictlanTeam/MictlanTeam-Library/issues"
+  }
+}
