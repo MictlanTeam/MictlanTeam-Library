@@ -1,0 +1,207 @@
+(footprint "SOP8"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "8-Lead Plastic Small Outline (SM) - 5.28 mm Body [SOIC] (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)")
+	(tags "SOIC 1.27")
+	(property "Reference" "U1"
+		(at 0 -3.68 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "03507d92-a314-4fb9-9705-431eec198c7e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ATtiny13A-S"
+		(at 0 3.68 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4d980fe9-b5a0-4a7c-a265-49e60bcd71ce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "17a7eef8-0dcb-467f-b3ec-e61bce006d82")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "20MHz, 1kB Flash, 64B SRAM, 64B EEPROM, debugWIRE, SOIC-8W"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a5984430-e5b6-4617-82c5-33dcb0907b4e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.8 -2.6)
+		(end -3 -2.85)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c7dc06ab-725f-4922-b670-25ce64c55a16")
+	)
+	(fp_line
+		(start -2.8 -2.6)
+		(end -2.6 -2.85)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d3afa3a4-f0bb-4d24-b4c7-b5e60b8be4fa")
+	)
+	(fp_line
+		(start -2.6 -2.85)
+		(end -3 -2.85)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0dd9f60d-5328-4684-8ea0-5c5d563075c2")
+	)
+	(fp_line
+		(start -1.9 -2.6)
+		(end -1.9 -2.395)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9ed1e2d6-ca8a-453a-9a4c-58e3b3ef2eb7")
+	)
+	(fp_line
+		(start -1.9 -2.6)
+		(end 1.9 -2.6)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "381ecfa7-2d6a-4457-addf-3de636fa72cd")
+	)
+	(fp_line
+		(start -1.9 2.5)
+		(end -1.9 2.2)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7ad41ecb-37c8-4fab-86da-fc33cd44db00")
+	)
+	(fp_line
+		(start -1.9 2.5)
+		(end 1.9 2.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b983b791-c9d1-491d-a478-357be2a4d2d0")
+	)
+	(fp_line
+		(start 1.9 -2.6)
+		(end 1.9 -2.3)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1b4eb85a-05a5-43af-874d-16d07557d5d3")
+	)
+	(fp_line
+		(start 1.9 2.5)
+		(end 1.9 2.2)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0f8c9d7e-6ec7-4abc-87d3-bf7bca5b5829")
+	)
+	(pad "1" smd rect
+		(at -2.8 -1.955)
+		(size 1.7 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6e48458e-8c04-42c4-b5e5-de7a82fbda74")
+	)
+	(pad "2" smd rect
+		(at -2.8 -0.685)
+		(size 1.7 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "15848b93-a498-47ff-90da-46ade89ba4c1")
+	)
+	(pad "3" smd rect
+		(at -2.8 0.585)
+		(size 1.7 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fd41369c-c3ce-49dc-ae6d-342dbd18cec1")
+	)
+	(pad "4" smd rect
+		(at -2.8 1.855)
+		(size 1.7 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9ba3512a-778b-4ad6-8778-60f14f6add19")
+	)
+	(pad "5" smd rect
+		(at 2.8 1.855)
+		(size 1.7 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "987991b6-9f0c-4204-a516-7e523569f6f6")
+	)
+	(pad "6" smd rect
+		(at 2.8 0.585)
+		(size 1.7 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "459abbdb-b8da-43ef-9dad-ab373ad612f4")
+	)
+	(pad "7" smd rect
+		(at 2.8 -0.685)
+		(size 1.7 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "951a1e84-965a-4d93-a006-9868807a65e3")
+	)
+	(pad "8" smd rect
+		(at 2.8 -1.955)
+		(size 1.7 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8137922a-949b-4970-b3e1-3b1d2dc30463")
+	)
+	(embedded_fonts no)
+	(model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-8_3.9x5.05mm_P1.27mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

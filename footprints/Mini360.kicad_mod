@@ -3,8 +3,8 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(property "Reference" "STEP1"
-		(at 5.949 8.749 180)
+	(property "Reference" "STEP"
+		(at 6 9.271 180)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "8d0b9f02-b385-46f5-952e-b32783a56e11")
@@ -16,9 +16,10 @@
 		)
 	)
 	(property "Value" "~"
-		(at 6 9 0)
+		(at 6 8.4582 0)
 		(unlocked yes)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "7a5f9d9f-a099-49ec-b3f7-82da64c7598e")
 		(effects
 			(font
