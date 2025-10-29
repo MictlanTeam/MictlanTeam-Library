@@ -513,7 +513,7 @@
 		(uuid "5dcab8a4-7d09-42d3-a37d-c576f3245316")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ARDUINO_NANO.step"
+	(model "${MICTLAN_LIBRARY}/MictlanTeam.3dshapes/Arduino_Nano.step"
 		(offset
 			(xyz 0 0 0)
 		)

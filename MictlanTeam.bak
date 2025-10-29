@@ -7907,7 +7907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MictlanTeam:RZ7886"
+		(property "Footprint" "MictlanTeam-Library:RZ7886"
 			(at -0.762 -7.874 0)
 			(effects
 				(font

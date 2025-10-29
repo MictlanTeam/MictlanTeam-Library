@@ -249,7 +249,7 @@
 		(uuid "a54ebdec-9ff5-4319-8912-243db787e38d")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/mini360.step"
+	(model "${MICTLAN_LIBRARY}/MictlanTeam.3dshapes/mini360.step"
 		(offset
 			(xyz -6 9.4 -0.5)
 		)

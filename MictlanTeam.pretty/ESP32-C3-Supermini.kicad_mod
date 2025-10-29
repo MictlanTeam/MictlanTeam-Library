@@ -1,7 +1,7 @@
-(footprint "ESP32_supermini"
-	(version 20240108)
+(footprint "ESP32-C3-Supermini"
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "ESP1"
 		(at 0.457999 -0.617 0)
@@ -25,18 +25,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" "custom_footprints:ESP32_supermini"
-		(at 0.1 1.2 180)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "5ccb8dc8-2452-4ecb-951d-b2e8612fc129")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -74,7 +62,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "6e377756-c75d-41dd-9e27-f5fb85fca868")
 	)
@@ -86,7 +74,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "51a6a228-cde4-49f0-b274-0e037cb3597b")
 	)
@@ -96,7 +84,7 @@
 		(drill
 			(offset -0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "8fdb21b8-1cf0-4469-b8ae-487d677c1353")
 	)
 	(pad "2" smd oval
@@ -105,7 +93,7 @@
 		(drill
 			(offset -0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "348d5574-283f-4dcf-b6ec-6688b8638669")
 	)
 	(pad "3" smd oval
@@ -114,7 +102,7 @@
 		(drill
 			(offset -0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "0a05fc54-099d-4b59-b234-b129c9817032")
 	)
 	(pad "4" smd oval
@@ -123,7 +111,7 @@
 		(drill
 			(offset -0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "f879fa2c-55b9-465d-bae5-17726b792971")
 	)
 	(pad "5" smd oval
@@ -132,7 +120,7 @@
 		(drill
 			(offset -0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "f99d8db1-6501-4714-ae80-b2a4d858c33f")
 	)
 	(pad "6" smd oval
@@ -141,7 +129,7 @@
 		(drill
 			(offset -0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "8e72b656-1158-4792-ae09-6cce975a2288")
 	)
 	(pad "7" smd oval
@@ -150,7 +138,7 @@
 		(drill
 			(offset -0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "db78bb2f-1164-4d06-a0b8-b982513f1681")
 	)
 	(pad "8" smd oval
@@ -159,7 +147,7 @@
 		(drill
 			(offset -0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "4d04ef7b-0516-454d-a1d6-c28f7ad5e451")
 	)
 	(pad "9" smd oval
@@ -168,7 +156,7 @@
 		(drill
 			(offset 0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "65adfab0-392f-4177-be88-56b46200eea6")
 	)
 	(pad "10" smd oval
@@ -177,7 +165,7 @@
 		(drill
 			(offset 0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "4bc1c822-56c4-470d-87a4-40d07a7f67d4")
 	)
 	(pad "11" smd oval
@@ -186,7 +174,7 @@
 		(drill
 			(offset 0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "e50da9f6-8cf4-44e3-88fc-dae1e3de2d93")
 	)
 	(pad "12" smd oval
@@ -195,7 +183,7 @@
 		(drill
 			(offset 0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "d2e92230-a7b4-4fa3-8052-5a699e4d7ea7")
 	)
 	(pad "13" smd oval
@@ -204,7 +192,7 @@
 		(drill
 			(offset 0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "5590281a-abbe-437f-94f0-6cfa263978b2")
 	)
 	(pad "14" smd oval
@@ -213,7 +201,7 @@
 		(drill
 			(offset 0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "0cf4be2a-1d4c-40f7-b97d-b0506f984650")
 	)
 	(pad "15" smd oval
@@ -222,7 +210,7 @@
 		(drill
 			(offset 0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "9d1064b2-409a-4694-9cc2-8b81fec689a3")
 	)
 	(pad "16" smd oval
@@ -231,10 +219,11 @@
 		(drill
 			(offset 0.7 0)
 		)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "1eb6eafa-5d12-4176-a833-f77c4613a810")
 	)
-	(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ESP32-C3 supermini v5.step"
+	(embedded_fonts no)
+	(model "${MICTLAN_LIBRARY}/MictlanTeam.3dshapes/ESP32-C3 supermini v5.step"
 		(offset
 			(xyz -20 -7.5 -3)
 		)

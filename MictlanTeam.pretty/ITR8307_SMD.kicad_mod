@@ -310,7 +310,7 @@
 		(uuid "29fa9665-b845-41b4-bfb5-bc9afbb50303")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
+	(model "${MICTLAN_LIBRARY}/MictlanTeam.3dshapes/ITR8307.step"
 		(offset
 			(xyz -1.5 -2.1 0)
 		)

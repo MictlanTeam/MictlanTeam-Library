@@ -513,7 +513,7 @@
 		(uuid "2dd155dd-18f4-4a9e-afcd-af03090ab170")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ESP32-S3-Zero.STEP"
+	(model "${MICTLAN_LIBRARY}/MictlanTeam.3dshapes/ESP32-S3-Zero.STEP"
 		(offset
 			(xyz 0.36 1.86 1.5)
 		)

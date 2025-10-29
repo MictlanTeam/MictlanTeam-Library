@@ -444,7 +444,7 @@
 		(uuid "1aa96649-ca81-46a1-a3c3-a0fecee55079")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/JST - XH - Thru (V) - 4Pin - 2.54mm.stp"
+	(model "${MICTLAN_LIBRARY}/MictlanTeam.3dshapes/JST - XH - Thru (V) - 4Pin - 2.54mm.stp"
 		(offset
 			(xyz 3.75 0 0)
 		)

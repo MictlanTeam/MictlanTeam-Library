@@ -174,7 +174,7 @@
 		(uuid "75469566-3af7-40fe-8fef-e1f645f66047")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/xt30.step"
+	(model "${MICTLAN_LIBRARY}/MictlanTeam.3dshapes/xt30.step"
 		(offset
 			(xyz 7.6 2.7 12.5)
 		)

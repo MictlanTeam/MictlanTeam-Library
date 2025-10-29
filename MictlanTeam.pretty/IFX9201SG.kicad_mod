@@ -402,7 +402,7 @@
 		(uuid "dd82c45c-7617-4f25-8cc0-99497b940a41")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/IFX9201SG.step"
+	(model "${MICTLAN_LIBRARY}/MictlanTeam.3dshapes/IFX9201SG.step"
 		(offset
 			(xyz 0 0 0)
 		)
