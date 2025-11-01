@@ -2888,26 +2888,6 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" ""
-			(at 0.254 -12.446 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
-			(at 0 7.874 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(property "VERIFIER" "SAMUEL"
 			(at -8.89 -22.606 0)
 			(effects
@@ -2930,36 +2910,6 @@
 		)
 		(property "MP" "ESP32-S3-Zero"
 			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" ""
-			(at 0.762 -32.766 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 0.254 -3.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" ""
-			(at 0 -2.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3320,12 +3270,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" ""
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "MictlanTeam:ITR8307_SMD"
@@ -7907,7 +7858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MictlanTeam-Library:RZ7886"
+		(property "Footprint" "MictlanTeam:RZ7886"
 			(at -0.762 -7.874 0)
 			(effects
 				(font
